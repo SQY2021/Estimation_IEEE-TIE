@@ -25,8 +25,9 @@ For the DAB used as a DC transformer, the input and output voltages are nearly c
 
 Fig. 1 Topology of the DAB converter and SPS control system.
 
-### Topology of a general DAB converter
-
+### Proposed AVM
+The formulation of conventional modeling (both time and frequency domain) is based on the following assumptions—the circuit does not possess nonidealities and parasitics, such as magnetizing inductance, equivalent series resistances (ESR), and dead times. Compared with traditional modeling of the DAB converter, this paper proposes a reduced-order averaged-value model (AVM) that considers parasitic parameters and the effects of dead-time periods.
+#### (1) 
 ## GA-BPNN
 
 
