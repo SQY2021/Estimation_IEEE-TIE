@@ -13,6 +13,8 @@ Parameter estimation with various nonidealities and uncertainties in a practical
 
 Illustrative results demonstrate that the combined **BPNN+GA+AVM** model outperforms other existing proposals and is capable of achieving accurate results for both the estimation and prediction of parasitic and control parameters.
 
+[^back to top](#top)
+
 ## Requirements
 - MATLAB == 2021b
 - PLECS == 4.5.6
