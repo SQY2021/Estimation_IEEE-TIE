@@ -36,7 +36,11 @@ Fig. 2 Operation waveforms of the IBDC with dead-time effect in buck state. (a) 
 
 - **(2) Effects of Magnetizing Inductance and Core Losses**
 
+While considering the impact of dead-time, we further consider parasitics, e.g., magnetizing inductance and core losses. Fig. 3 depicts a general equivalent detailed model of DAB
+converter considered in this paper.
+![image](https://github.com/SQY2021/Estimation/assets/81226844/7622f839-e70c-4ff4-a2fc-068dfdd518e1)
 
+Fig. 3  Detailed steady-state equivalent circuit of the DAB.
 ## GA-BPNN
 
 
