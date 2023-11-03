@@ -58,12 +58,16 @@ Fig. 3 Some examples of the proposed AVM of the DAB converter
  
     - Click on ([**MATLAB-model-simulink**](https://github.com/SQY2021/Estimation/tree/main/The%20proposed%20AVM/MATLAB-model-simulink%20and%20PLECS-model-simulink/MATLAB-model-simulink))
 
-    - High frequency transformer parameters and parasitics
+    - [MATLAB implementation of AVM considering high-frequency transformer parameters and parasitics](https://github.com/SQY2021/Estimation/tree/main/The%20proposed%20AVM/MATLAB-model-simulink%20and%20PLECS-model-simulink/MATLAB-model-simulink)
       
      ```bash
-        1 RUN TF.m
-        2 RUN
+        1 RUN TF.m; Parameter_preparation.m
+        2 RUN RAVM.slx
      ```
+
+     - [PLECS implementation of AVM considering circuit nonidealities](https://github.com/SQY2021/Estimation/tree/main/The%20proposed%20AVM/MATLAB-model-simulink%20and%20PLECS-model-simulink/PLECS-model-simulink);
+ 
+     - [Numerical methods for solving steady state solutions](https://github.com/SQY2021/Estimation/tree/main/The%20proposed%20AVM/MATLAB-model-simulink%20and%20PLECS-model-simulink/PLECS-model-simulink)；
 
 ## GA-BPNN
 
