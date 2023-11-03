@@ -42,7 +42,7 @@ converter considered in this paper.
 
 Fig. 3  Detailed steady-state equivalent circuit of the DAB.
 
-- **(2) Implementation of the proposed AVM based on MATLAB**
+- **(3) Implementation of the proposed AVM based on MATLAB**
 
 
 
@@ -50,6 +50,20 @@ Fig. 3  Detailed steady-state equivalent circuit of the DAB.
 
 Fig. 3 Some examples of the proposed AVM of the DAB converter
 
+- **(4) Procedure to run this code**
+
+    - Click on code and download zip
+
+    - Click on ([**The proposed AVM**](https://github.com/SQY2021/Estimation/tree/main/The%20proposed%20AVM/MATLAB-model-simulink%20and%20PLECS-model-simulink))
+ 
+    - Click on ([**MATLAB-model-simulink**](https://github.com/SQY2021/Estimation/tree/main/The%20proposed%20AVM/MATLAB-model-simulink%20and%20PLECS-model-simulink/MATLAB-model-simulink))
+
+    - High frequency transformer parameters and parasitics
+      
+     ```bash
+        1 RUN TF.m
+        2 RUN
+     ```
 
 ## GA-BPNN
 
