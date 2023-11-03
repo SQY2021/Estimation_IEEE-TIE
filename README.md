@@ -25,6 +25,8 @@ For the DAB used as a DC transformer, the input and output voltages are nearly c
 
 Fig. 1 Topology of the DAB converter and SPS control system.
 
+[^back to top](#recog-a-recognition-framework)
+
 ### Proposed AVM
 The formulation of conventional modeling (both time and frequency domain) is based on the following assumptions—the circuit does not possess nonidealities and parasitics, such as magnetizing inductance, equivalent series resistances (ESR), and dead times. Compared with traditional modeling of the DAB converter, this paper proposes a reduced-order averaged-value model (AVM) that considers parasitic parameters and the effects of dead-time periods.
 - **(1) Effects of dead-time periods**
@@ -33,6 +35,8 @@ The formulation of conventional modeling (both time and frequency domain) is bas
 ![image](https://github.com/SQY2021/Estimation/assets/81226844/4749d6ef-6345-4c9f-b730-b91f512bba37)
 
 Fig. 2 Operation waveforms of the IBDC with dead-time effect in buck state. (a) Mode 1. (b) Mode 2. (c) Mode 3. (d) Mode 4. (e) Mode 5. (f) Mode 6.
+
+[^back to top](#recog-a-recognition-framework)
 
 - **(2) Effects of Magnetizing Inductance and Core Losses**
 
@@ -49,6 +53,8 @@ Fig. 3  Detailed steady-state equivalent circuit of the DAB.
 ![image](https://github.com/SQY2021/Estimation/assets/81226844/e529edb3-463d-4e00-a209-b88b6ea9aad3)
 
 Fig. 3 Some examples of the proposed AVM of the DAB converter
+
+[^back to top](#recog-a-recognition-framework)
 
 - **(4) Procedure to run this code**
 
@@ -79,6 +85,7 @@ Fig. 3 Some examples of the proposed AVM of the DAB converter
  
      - [Numerical methods for solving steady state solutions](https://github.com/SQY2021/Estimation/tree/main/The%20proposed%20AVM/MATLAB-model-simulink%20and%20PLECS-model-simulink/PLECS-model-simulink)；
 
+[^back to top](#recog-a-recognition-framework)
 
 ## GA-BPNN
 
