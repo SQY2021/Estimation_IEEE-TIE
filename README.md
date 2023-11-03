@@ -16,7 +16,7 @@ Illustrative results demonstrate that the combined BPNN+GA+AVM model outperforms
 - MATLAB == 2021b
 - PLECS == 4.5.6
 - Simulink
-- 
+
 ## Reduced-order AVM with circuit nonidealities
 ### Topology of a general DAB converter
 For the DAB used as a DC transformer, the input and output voltages are nearly constant [5], so single-phase-shift (SPS) control is the most widely used one on account of its simplicity and fast dynamic response [6]. Therefore, SPS control is used in this article. The topology of the DAB converter is illustrated in Fig. 1.
@@ -27,7 +27,7 @@ Fig. 1 Topology of the DAB converter and SPS control system.
 
 ### Proposed AVM
 The formulation of conventional modeling (both time and frequency domain) is based on the following assumptions—the circuit does not possess nonidealities and parasitics, such as magnetizing inductance, equivalent series resistances (ESR), and dead times. Compared with traditional modeling of the DAB converter, this paper proposes a reduced-order averaged-value model (AVM) that considers parasitic parameters and the effects of dead-time periods.
-#### (1) 
+#### - (1) 
 ## GA-BPNN
 
 
