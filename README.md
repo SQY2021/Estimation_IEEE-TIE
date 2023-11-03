@@ -64,19 +64,20 @@ Fig. 3 Some examples of the proposed AVM of the DAB converter
         1 RUN TF.m; Parameter_preparation.m
         2 RUN RAVM.slx
      ```
+ 
+     - **Automatic PI tuner**
+       
+        ![image](https://github.com/SQY2021/Estimation/assets/81226844/a13205aa-f825-4f5b-abc2-3ac44ffb3342)
+
+        Fig. 4 PI tuner
+
+        ![GIF 2023-9-17 23-40-05](https://github.com/SQY2021/Estimation/assets/81226844/a49b9168-51cb-4fda-acf3-d4e1740af321)
+
+        Fig. 5 The process of automatically tuning PID parameters
 
      - [PLECS implementation of AVM considering circuit nonidealities](https://github.com/SQY2021/Estimation/tree/main/The%20proposed%20AVM/MATLAB-model-simulink%20and%20PLECS-model-simulink/PLECS-model-simulink);
  
      - [Numerical methods for solving steady state solutions](https://github.com/SQY2021/Estimation/tree/main/The%20proposed%20AVM/MATLAB-model-simulink%20and%20PLECS-model-simulink/PLECS-model-simulink)；
- 
-     -Automatic PI tuner
-  ![image](https://github.com/SQY2021/Estimation/assets/81226844/a13205aa-f825-4f5b-abc2-3ac44ffb3342)
-
-Fig. 4 PI tuner
-
-![GIF 2023-9-17 23-40-05](https://github.com/SQY2021/Estimation/assets/81226844/a49b9168-51cb-4fda-acf3-d4e1740af321)
-
-Fig. 5 The process of automatically tuning PID parameters
 
 
 ## GA-BPNN
