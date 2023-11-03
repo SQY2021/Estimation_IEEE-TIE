@@ -41,6 +41,12 @@ converter considered in this paper.
 ![image](https://github.com/SQY2021/Estimation/assets/81226844/7622f839-e70c-4ff4-a2fc-068dfdd518e1)
 
 Fig. 3  Detailed steady-state equivalent circuit of the DAB.
+
+- **(2) Implementation of the proposed AVM based on MATLAB**
+
+![image](https://github.com/SQY2021/Estimation/assets/81226844/b70f90e1-6827-4dd9-91c7-d80526566e97)
+
+
 ## GA-BPNN
 
 
