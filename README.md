@@ -25,6 +25,8 @@ For the DAB used as a DC transformer, the input and output voltages are nearly c
 
 Fig. 1 Topology of the DAB converter and SPS control system.
 
+### Topology of a general DAB converter
+
 ## GA-BPNN
 
 
