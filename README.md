@@ -141,11 +141,13 @@ In this article, the following models are also utilized for comparison.
 - [x] [FFRLS](https://ieeexplore.ieee.org/abstract/document/9656564)
 
 # References
-We appreciate the following github repositories a lot for their valuable code base or datasets:
+We appreciate the following github repositories/[IEEE DataPort(TM)](https://) a lot for their valuable code base or datasets:
 
-[https://github.com/zhouhaoyi/Informer2020](https://github.com/zhouhaoyi/Informer2020)
+[Plecs Simulation Files Dab Control Methods](https://doi.org/10.21227/gz8v-2s83)
 
-[https://github.com/thuml/Autoformer](https://github.com/thuml/Autoformer)
+[https://ieeexplore.ieee.org/abstract/document/7456330](https://ieeexplore.ieee.org/abstract/document/7456330)
+
+
 
 
 
