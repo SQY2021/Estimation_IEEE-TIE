@@ -86,7 +86,7 @@ Fig. 3 Some examples of the proposed AVM of the DAB converter
 
      - [PLECS implementation of AVM considering circuit nonidealities](https://github.com/SQY2021/Estimation/tree/main/The%20proposed%20AVM/MATLAB-model-simulink%20and%20PLECS-model-simulink/PLECS-model-simulink);
 
-      ![image](https://github.com/SQY2021/Estimation/assets/81226844/9ce659c9-b11a-47ac-982a-b07a3b90d3d3)
+       ![image](https://github.com/SQY2021/Estimation/assets/81226844/b34dd63d-0bac-4393-b714-8bf8d0dde3fc)
 
        Fig. 5 Detailed steady-state equivalent circuit of the DAB.
 
