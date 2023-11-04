@@ -34,7 +34,7 @@ Fig. 1 Topology of the DAB converter and SPS control system.
 The formulation of conventional modeling (both time and frequency domain) is based on the following assumptions—the circuit does not possess nonidealities and parasitics, such as magnetizing inductance, equivalent series resistances (ESR), and dead times. Compared with traditional modeling of the DAB converter, this paper proposes a reduced-order averaged-value model (AVM) that considers parasitic parameters and the effects of dead-time periods.
 - **(1) Effects of dead-time periods**
   
-[1] presents a comprehensive theoretical analysis of dead-time effect in the DAB converter. In [1], there are three sub-states of the dead-time effect (boost state, buck state and matching state), and each state has multiple modes. Taking the buck state of the DAB converter as an example, there are 6 modes in total (Fig. 2). We selected the two most typical modes as examples for modeling, and considered parasitism during the modeling process.
+[[1]](https://ieeexplore.ieee.org/abstract/document/6548099) presents a comprehensive theoretical analysis of dead-time effect in the DAB converter. In [1], there are three sub-states of the dead-time effect (boost state, buck state and matching state), and each state has multiple modes. Taking the buck state of the DAB converter as an example, there are 6 modes in total (Fig. 2). We selected the two most typical modes as examples for modeling, and considered parasitism during the modeling process.
 ![image](https://github.com/SQY2021/Estimation/assets/81226844/4749d6ef-6345-4c9f-b730-b91f512bba37)
 
 Fig. 2 Operation waveforms of the IBDC with dead-time effect in buck state. (a) Mode 1. (b) Mode 2. (c) Mode 3. (d) Mode 4. (e) Mode 5. (f) Mode 6.
@@ -112,6 +112,8 @@ A non-invasive method based on intelligent algorithms for estimating circuit and
 
 Fig. 5 Overall diagram of the proposed parameter estimation method.
 
+[^back to top](#top)
+
 - **[(1) BPNN](https://github.com/SQY2021/Estimation/tree/main/BPNN)**
 
 ```bash
@@ -127,4 +129,26 @@ Fig. 5 Overall diagram of the proposed parameter estimation method.
 <img src="https://github.com/SQY2021/Estimation/assets/81226844/4fdbe8c4-7d01-426e-ac43-9ff800670e69" width="600" height="480">
 
 Fig. 5 Training process of GA-BPNN
+
+[^back to top](#top)
+
+# Baselines
+
+In this article, the following models are also utilized for comparison.
+
+- [x] [GA-BPNN](https://github.com/SQY2021/Estimation/tree/main/GA-BPNN)
+- [x] [BPNN](https://github.com/SQY2021/Estimation/tree/main/BPNN)
+- [x] [FFRLS](https://ieeexplore.ieee.org/abstract/document/9656564)
+
+# References
+We appreciate the following github repositories a lot for their valuable code base or datasets:
+
+[https://github.com/zhouhaoyi/Informer2020](https://github.com/zhouhaoyi/Informer2020)
+
+[https://github.com/thuml/Autoformer](https://github.com/thuml/Autoformer)
+
+
+
+
+
 
