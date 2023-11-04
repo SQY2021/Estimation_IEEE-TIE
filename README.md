@@ -85,12 +85,21 @@ Fig. 3 Some examples of the proposed AVM of the DAB converter
         Fig. 5 The process of automatically tuning PID parameters
 
      - [PLECS implementation of AVM considering circuit nonidealities](https://github.com/SQY2021/Estimation/tree/main/The%20proposed%20AVM/MATLAB-model-simulink%20and%20PLECS-model-simulink/PLECS-model-simulink);
+
+      ![image](https://github.com/SQY2021/Estimation/assets/81226844/9ce659c9-b11a-47ac-982a-b07a3b90d3d3)
+
+       Fig. 5 Detailed steady-state equivalent circuit of the DAB.
+
  
      - [Numerical methods for solving steady state solutions](https://github.com/SQY2021/Estimation/tree/main/The%20proposed%20AVM/MATLAB-model-simulink%20and%20PLECS-model-simulink/PLECS-model-simulink)；
 
 [^back to top](#top)
 
 ## GA-BPNN
+
+Nowadays, artificial intelligence (AI) powers many aspects of industrial applications [20]. It has been successfully applied for power electronic systems for specific targets, such as designing time reduction [21], weighting factors design [22]–[29], and so on. In terms of data prediction, BP neural network has the advantages of high speed, good effect, and high precision. It has been widely used for structure optimization and result prediction. 
+
+Genetic algorithm (GA) optimized back propagation (BP) neural networks have been developed based on biological intelligence techniques. Owing to their advantages of learning, generalization, fast computation, and easy implementation, GA-BP neural networks have been widely used for operations management, precision agriculture, and additive manufacturing.
 
 
 
