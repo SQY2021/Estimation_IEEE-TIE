@@ -97,9 +97,7 @@ Fig. 3 Some examples of the proposed AVM of the DAB converter
 
 ## GA-BPNN
 
-Nowadays, artificial intelligence (AI) powers many aspects of industrial applications [20]. It has been successfully applied for power electronic systems for specific targets, such as designing time reduction [21], weighting factors design [22]–[29], and so on. In terms of data prediction, BP neural network has the advantages of high speed, good effect, and high precision. It has been widely used for structure optimization and result prediction. 
+Nowadays, [artificial intelligence (AI)](https://) powers many aspects of industrial applications. It has been successfully applied for power electronic systems for specific targets, such as designing time reduction, weighting factors design, and so on. In terms of data prediction, [BP neural network](https://) has the advantages of high speed, good effect, and high precision. It has been widely used for structure optimization and result prediction. 
 
-Genetic algorithm (GA) optimized back propagation (BP) neural networks have been developed based on biological intelligence techniques. Owing to their advantages of learning, generalization, fast computation, and easy implementation, GA-BP neural networks have been widely used for operations management, precision agriculture, and additive manufacturing.
-
-
+[Genetic algorithm (GA)](https://) optimized BPNNs have been developed based on biological intelligence techniques. Owing to their advantages of learning, generalization, fast computation, and easy implementation, GA-BP neural networks have been widely used for monitoring, control, parameter estimation
 
