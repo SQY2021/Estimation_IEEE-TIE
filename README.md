@@ -108,7 +108,7 @@ GA optimized [BPNNs](https://) have been developed based on biological intellige
 
 A non-invasive method based on intelligent algorithms for estimating circuit and control parameters of a DAB converter has been proposed in this paper. The proposed parameter estimation method is shown in Fig. 6.
 
-    ![image](https://github.com/SQY2021/Estimation/assets/81226844/8dfa5b9f-7411-41db-839c-58a50f607e5e)
+![image](https://github.com/SQY2021/Estimation/assets/81226844/8dfa5b9f-7411-41db-839c-58a50f607e5e)
 
     Fig. 5 Overall diagram of the proposed parameter estimation method.
 
