@@ -95,7 +95,7 @@ converter considered in this paper.
 
 [^back to top](#top)
 
-## GA-BPNN
+## Parameter estimation based on intelligent algorithms
 
 Nowadays, [artificial intelligence (AI)](https://) powers many aspects of industrial applications. It has been successfully applied for power electronic systems for specific targets, such as designing time reduction, weighting factors design, performance prediction, and so on. In terms of data prediction, [BP neural network](https://) has the advantages of high speed, good effect, and high precision. It has been widely used for structure optimization and result prediction. 
 
