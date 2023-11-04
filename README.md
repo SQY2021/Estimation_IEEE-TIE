@@ -88,7 +88,7 @@ converter considered in this paper.
 
        ![image](https://github.com/SQY2021/Estimation/assets/81226844/b34dd63d-0bac-4393-b714-8bf8d0dde3fc)
 
-       Fig. 5 Detailed steady-state equivalent circuit of the DAB.
+       Fig. 6 Detailed steady-state equivalent circuit of the DAB.
 
  
      - [Numerical methods for solving steady state solutions](https://github.com/SQY2021/Estimation/tree/main/The%20proposed%20AVM/MATLAB-model-simulink%20and%20PLECS-model-simulink/PLECS-model-simulink)；
@@ -110,7 +110,7 @@ A non-invasive method based on intelligent algorithms for estimating circuit and
 
 ![image](https://github.com/SQY2021/Estimation/assets/81226844/8dfa5b9f-7411-41db-839c-58a50f607e5e)
 
-Fig. 5 Overall diagram of the proposed parameter estimation method.
+Fig. 7 Overall diagram of the proposed parameter estimation method.
 
 [^back to top](#top)
 
@@ -128,7 +128,7 @@ Fig. 5 Overall diagram of the proposed parameter estimation method.
 
 <img src="https://github.com/SQY2021/Estimation/assets/81226844/4fdbe8c4-7d01-426e-ac43-9ff800670e69" width="600" height="480">
 
-Fig. 5 Training process of GA-BPNN
+Fig. 8 Training process of GA-BPNN
 
 [^back to top](#top)
 
@@ -139,6 +139,8 @@ In this article, the following models are also utilized for comparison.
 - [x] [GA-BPNN](https://github.com/SQY2021/Estimation/tree/main/GA-BPNN)
 - [x] [BPNN](https://github.com/SQY2021/Estimation/tree/main/BPNN)
 - [x] [FFRLS](https://ieeexplore.ieee.org/abstract/document/9656564)
+
+[^back to top](#top)
 
 # References
 We appreciate the following github repositories/[IEEE DataPort(TM)](https://) a lot for their valuable code base or datasets:
@@ -152,6 +154,8 @@ We appreciate the following github repositories/[IEEE DataPort(TM)](https://) a 
 # Contact
 If you have any questions, feel free to contact Qianyi Shang through Email ([21000504@nue.eud.cn](21000504@nue.eud.cn)) or Github issues. Pull requests are highly welcomed!
 
+
+[^back to top](#top)
 
 
 
