@@ -105,6 +105,7 @@ network is a multidimensional nonlinear function with an Stype function as the a
 [Genetic algorithm (GA)](https://) is a highly parallel adaptive detection algorithm that mimics the theory of biological evolution in nature [27]. It is optimized to distinguish information about individual genetic changes, retaining genetic traits that are well adapted to the environment, and eliminating those that are poorly adapted. Therefore, the current problem is solved by using GA to optimize the weights and thresholds of the BP network. The combined network has an extremely strong ability to solve practical problems. 
 
 GA optimized [BPNNs](https://) have been developed based on biological intelligence techniques. Owing to their advantages of learning, generalization, fast computation, and easy implementation, [GA-BP neural networks](https://) have been widely used for monitoring, control, parameter estimation.
+![image](https://github.com/SQY2021/Estimation/assets/81226844/8dfa5b9f-7411-41db-839c-58a50f607e5e)
 
 A non-invasive method based on intelligent algorithms for estimating circuit and control parameters of a DAB converter has been proposed in this paper. The proposed parameter estimation method is shown in Fig. 6.
 
