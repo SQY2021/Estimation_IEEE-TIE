@@ -55,7 +55,7 @@ converter considered in this paper.
 
     ![image](https://github.com/SQY2021/Estimation/assets/81226844/e529edb3-463d-4e00-a209-b88b6ea9aad3)
 
-    Fig. 3 Some examples of the proposed AVM of the DAB converter
+    Fig. 3 Simulation example of partial equations of the mathematical model of the proposed AVM
 
 [^back to top](#top)
 
