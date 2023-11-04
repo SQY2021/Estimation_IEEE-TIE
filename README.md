@@ -118,12 +118,13 @@ Fig. 5 Overall diagram of the proposed parameter estimation method.
        RUN main.mlx        
 ```  
 
-<img src="https://github.com/SQY2021/Estimation/assets/81226844/4fdbe8c4-7d01-426e-ac43-9ff800670e69" width="600" height="480">
-
-Fig. 5 Training process of GA-BPNN
-
 - **[(2) GA-BPNN](https://github.com/SQY2021/Estimation/tree/main/GA-BPNN)**
 
 ```bash
        RUN main.mlx        
 ```  
+
+<img src="https://github.com/SQY2021/Estimation/assets/81226844/4fdbe8c4-7d01-426e-ac43-9ff800670e69" width="600" height="480">
+
+Fig. 5 Training process of GA-BPNN
+
