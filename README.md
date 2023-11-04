@@ -143,9 +143,14 @@ In this article, the following models are also utilized for comparison.
 # References
 We appreciate the following github repositories/[IEEE DataPort(TM)](https://) a lot for their valuable code base or datasets:
 
-[Plecs Simulation Files Dab Control Methods](https://doi.org/10.21227/gz8v-2s83)
+- [Plecs Simulation Files Dab Control Methods](https://doi.org/10.21227/gz8v-2s83)
 
-[https://ieeexplore.ieee.org/abstract/document/7456330](https://ieeexplore.ieee.org/abstract/document/7456330)
+- [https://ieeexplore.ieee.org/abstract/document/7456330](https://ieeexplore.ieee.org/abstract/document/7456330)
+
+- [GA-BPNN](https://mp.weixin.qq.com/s/RLSxJaPI-AzbTCgryhd6mQ)
+
+# Contact
+If you have any questions, feel free to contact Qianyi Shang through Email ([21000504@nue.eud.cn](21000504@nue.eud.cn)) or Github issues. Pull requests are highly welcomed!
 
 
 
