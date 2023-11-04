@@ -118,7 +118,7 @@ Fig. 5 Overall diagram of the proposed parameter estimation method.
        RUN main.mlx        
 ```  
 
-![GIF 2023-11-3 20-45-13](https://github.com/SQY2021/Estimation/assets/81226844/4fdbe8c4-7d01-426e-ac43-9ff800670e69)
+![GIF 2023-11-3 20-45-13](https://github.com/SQY2021/Estimation/assets/81226844/4fdbe8c4-7d01-426e-ac43-9ff800670e69 width="300" height="200")
 
 
 
