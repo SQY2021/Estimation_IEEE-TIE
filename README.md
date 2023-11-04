@@ -45,17 +45,17 @@ Fig. 2 Operation waveforms of the IBDC with dead-time effect in buck state. (a) 
 
 While considering the impact of dead-time, we further consider parasitics, e.g., magnetizing inductance and core losses. Fig. 3 depicts a general equivalent detailed model of DAB
 converter considered in this paper.
-![image](https://github.com/SQY2021/Estimation/assets/81226844/7622f839-e70c-4ff4-a2fc-068dfdd518e1)
+      ![image](https://github.com/SQY2021/Estimation/assets/81226844/7622f839-e70c-4ff4-a2fc-068dfdd518e1)
 
-Fig. 3  Detailed steady-state equivalent circuit of the DAB.
+      Fig. 3  Detailed steady-state equivalent circuit of the DAB.
 
 - **(3) Implementation of the proposed AVM based on MATLAB**
 
 
 
-![image](https://github.com/SQY2021/Estimation/assets/81226844/e529edb3-463d-4e00-a209-b88b6ea9aad3)
+    ![image](https://github.com/SQY2021/Estimation/assets/81226844/e529edb3-463d-4e00-a209-b88b6ea9aad3)
 
-Fig. 3 Some examples of the proposed AVM of the DAB converter
+    Fig. 3 Some examples of the proposed AVM of the DAB converter
 
 [^back to top](#top)
 
