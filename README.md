@@ -97,7 +97,10 @@ Fig. 3 Some examples of the proposed AVM of the DAB converter
 
 ## GA-BPNN
 
-Nowadays, [artificial intelligence (AI)](https://) powers many aspects of industrial applications. It has been successfully applied for power electronic systems for specific targets, such as designing time reduction, weighting factors design, and so on. In terms of data prediction, [BP neural network](https://) has the advantages of high speed, good effect, and high precision. It has been widely used for structure optimization and result prediction. 
+Nowadays, [artificial intelligence (AI)](https://) powers many aspects of industrial applications. It has been successfully applied for power electronic systems for specific targets, such as designing time reduction, weighting factors design, performance prediction, and so on. In terms of data prediction, [BP neural network](https://) has the advantages of high speed, good effect, and high precision. It has been widely used for structure optimization and result prediction. 
 
-[Genetic algorithm (GA)](https://) optimized BPNNs have been developed based on biological intelligence techniques. Owing to their advantages of learning, generalization, fast computation, and easy implementation, GA-BP neural networks have been widely used for monitoring, control, parameter estimation
+Although BP neural networks have strong nonlinear mapping capacity and limited fault tolerance, the BP neural network algorithm has obvious limitations in practical engineering applications. Because the global error of the BP neural
+network is a multidimensional nonlinear function with an Stype function as the argument, there are multiple local minima on the error surface. Thus, the BP algorithm can easily fall into the local optimum.
+
+[Genetic algorithm (GA)](https://) optimized [BPNNs](https://) have been developed based on biological intelligence techniques. Owing to their advantages of learning, generalization, fast computation, and easy implementation, GA-BP neural networks have been widely used for monitoring, control, parameter estimation
 
