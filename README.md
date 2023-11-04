@@ -110,6 +110,6 @@ A non-invasive method based on intelligent algorithms for estimating circuit and
 
     ![image](https://github.com/SQY2021/Estimation/assets/81226844/822b90c8-1872-4b2a-9eda-9d96e625317b)
 
-    Fig. 5 Overall diagram of the proposed optimization method.
+    Fig. 5 Overall diagram of the proposed parameter estimation method.
 
 
