@@ -110,6 +110,16 @@ A non-invasive method based on intelligent algorithms for estimating circuit and
 
 ![image](https://github.com/SQY2021/Estimation/assets/81226844/8dfa5b9f-7411-41db-839c-58a50f607e5e)
 
-    Fig. 5 Overall diagram of the proposed parameter estimation method.
+Fig. 5 Overall diagram of the proposed parameter estimation method.
 
+- **[(1) BPNN](https://github.com/SQY2021/Estimation/tree/main/BPNN)**
 
+```bash
+       RUN main.mlx        
+```  
+
+- - **[(2) GA-BPNN](https://github.com/SQY2021/Estimation/tree/main/GA-BPNN)**
+
+```bash
+       RUN main.mlx        
+```  
