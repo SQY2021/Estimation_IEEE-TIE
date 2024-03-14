@@ -21,6 +21,9 @@ Illustrative results demonstrate that the combined **[AVM+BPNN+GA](https://githu
 - Simulink
 
 ## Reduced-order AVM with circuit nonidealities
+
+Ignoring nonideal factors will lead to the misjudgment of the ZVS range, increasing the switching loss, and affecting the electromagnetic compatibility performance. DAB high-frequency voltage also produces distortion due to the influence of nonideal factors, which affects the power transmission characteristics. Due to the influence of nonideal factors, DAB will lose the ZVS operation at light load, and the loss at the light load will be more than half of that at rated power, which decreases the efficiency in light load greatly.
+
 ### Topology of a general DAB converter
 For the DAB used as a DC transformer, the input and output voltages are nearly constant, so single-phase-shift (SPS) control is the most widely used one on account of its simplicity and fast dynamic response. Therefore, SPS control is used in this article. The topology of the DAB converter is illustrated in Fig. 1.
 
