@@ -37,6 +37,8 @@ Fig. 1 Topology of the DAB converter and SPS control system.
 The formulation of conventional modeling (both time and frequency domain) is based on the following assumptions—the circuit does not possess nonidealities and parasitics, such as magnetizing inductance, equivalent series resistances (ESR), and dead times. Compared with traditional modeling of the DAB converter, this paper proposes a reduced-order averaged-value model (AVM) that considers parasitic parameters and the effects of dead-time periods.
 - **(1) Effects of dead-time periods**
   
+The influence of dead time on the leakage inductance current is ignored in traditional analysis, and the leakage inductance current can be affected by the dead time, especially when the duty ratio is close to 0.5 and the phase shift angle is small. 
+
 [[1]](https://ieeexplore.ieee.org/abstract/document/6548099) presents a comprehensive theoretical analysis of dead-time effect in the DAB converter. In [1], there are three sub-states of the dead-time effect (boost state, buck state and matching state), and each state has multiple modes. Taking the buck state of the DAB converter as an example, there are 6 modes in total (Fig. 2). We selected the two most typical modes as examples for modeling, and considered parasitism during the modeling process.
 ![image](https://github.com/SQY2021/Estimation/assets/81226844/4749d6ef-6345-4c9f-b730-b91f512bba37)
 
