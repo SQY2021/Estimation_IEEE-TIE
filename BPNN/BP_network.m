@@ -51,7 +51,7 @@ y_test_regular=sim(net,x_test_regular);
 %将得到的数据反归一化得到预测数据
 BP_predict=mapminmax('reverse',y_test_regular,y_train_maxmin);
 % RBF_predict(find(RBF_predict<0))=-0.244;
-%%
+%%%
 BP_predict=BP_predict';
 errors_nn=sum(abs(BP_predict-y_test_data)./(y_test_data))/length(y_test_data);
 figure(1)
