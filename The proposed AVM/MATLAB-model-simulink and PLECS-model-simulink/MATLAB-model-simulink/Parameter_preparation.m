@@ -76,7 +76,7 @@ all_merged_data = [];
 %P = (Vin * Vo) / (2 * n * fs * Leq) * d * (1 - d);
 
 
-%for testing
+%%for testing
 % d1 = 0.05;
 % delta_d = 0.05;
 % Ts = 1;
