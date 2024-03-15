@@ -52,12 +52,6 @@ The influence of dead time on the leakage inductance current is ignored in tradi
 
 Fig. 2 Operation waveforms of the IBDC with dead-time effect in buck state. (a) Mode 1. (b) Mode 2. (c) Mode 3. (d) Mode 4. (e) Mode 5. (f) Mode 6.
 
-The amount of power transferred from the leading bridge to the lagging bridge is given as follow :
-
-![image](https://github.com/SQY2021/Estimation/assets/81226844/1c9e8ff7-0833-4975-8067-a4bb52f0670b)
-
-![image](https://github.com/SQY2021/Estimation/assets/81226844/f8958f3c-3b88-4905-91b6-36a53a9cd644)
-
 
 [^back to top](#top)
 
@@ -75,7 +69,7 @@ Fig. 3  Detailed steady-state equivalent circuit of the DAB.
 
     ![image](https://github.com/SQY2021/Estimation/assets/81226844/e529edb3-463d-4e00-a209-b88b6ea9aad3)
 
-    Fig. 3 Simulation example of partial equations of the mathematical model of the proposed AVM
+    Fig. 4 Simulation example of partial equations of the mathematical model of the proposed AVM
 
 [^back to top](#top)
 
@@ -98,17 +92,17 @@ Fig. 3  Detailed steady-state equivalent circuit of the DAB.
        
         ![image](https://github.com/SQY2021/Estimation/assets/81226844/a13205aa-f825-4f5b-abc2-3ac44ffb3342)
 
-        Fig. 4 PI tuner
+        Fig. 5 PI tuner
 
         ![GIF 2023-9-17 23-40-05](https://github.com/SQY2021/Estimation/assets/81226844/a49b9168-51cb-4fda-acf3-d4e1740af321)
 
-        Fig. 5 The process of automatically tuning PID parameters
+        Fig. 6 The process of automatically tuning PID parameters
 
      - [PLECS implementation of AVM considering circuit nonidealities](https://github.com/SQY2021/Estimation/tree/main/The%20proposed%20AVM/MATLAB-model-simulink%20and%20PLECS-model-simulink/PLECS-model-simulink);
 
        ![image](https://github.com/SQY2021/Estimation/assets/81226844/b34dd63d-0bac-4393-b714-8bf8d0dde3fc)
 
-       Fig. 6 Detailed steady-state equivalent circuit of the DAB.
+       Fig. 7 Detailed steady-state equivalent circuit of the DAB.
 
  
      - [Numerical methods for solving steady state solutions](https://github.com/SQY2021/Estimation/tree/main/The%20proposed%20AVM/MATLAB-model-simulink%20and%20PLECS-model-simulink/PLECS-model-simulink)；
@@ -130,7 +124,7 @@ A non-invasive method based on intelligent algorithms for estimating circuit and
 
 ![image](https://github.com/SQY2021/Estimation/assets/81226844/8dfa5b9f-7411-41db-839c-58a50f607e5e)
 
-Fig. 7 Overall diagram of the proposed parameter estimation method.
+Fig. 8 Overall diagram of the proposed parameter estimation method.
 
 [^back to top](#top)
 
@@ -148,7 +142,7 @@ Fig. 7 Overall diagram of the proposed parameter estimation method.
 
 <img src="https://github.com/SQY2021/Estimation/assets/81226844/4fdbe8c4-7d01-426e-ac43-9ff800670e69" width="600" height="480">
 
-Fig. 8 Training process of GA-BPNN
+Fig. 9 Training process of GA-BPNN
 
 [^back to top](#top)
 
