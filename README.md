@@ -31,6 +31,14 @@ For the DAB used as a DC transformer, the input and output voltages are nearly c
 
 Fig. 1 Topology of the DAB converter and SPS control system.
 
+The amount of power transferred from the leading bridge to the lagging bridge is given as follow :
+
+![image](https://github.com/SQY2021/Estimation/assets/81226844/22f055fd-d51b-4f38-81a0-0cd3e9273f91)
+
+
+![image](https://github.com/SQY2021/Estimation/assets/81226844/f8958f3c-3b88-4905-91b6-36a53a9cd644)
+
+
 [^back to top](#top)
 
 ### Proposed AVM
