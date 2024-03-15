@@ -57,5 +57,5 @@ legend(axes1,'show');
 
 % uicontrol 当前不支持代码生成，请输入正确输入语法对应的 'doc uicontrol'
 % 可以使用 GUIDE 来为 uicontrol 生成代码。有关详细信息，请输入 'doc guide'
-% uicontrol(...);
+%% uicontrol(...);
 
