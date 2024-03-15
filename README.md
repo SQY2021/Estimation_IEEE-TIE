@@ -44,6 +44,13 @@ The influence of dead time on the leakage inductance current is ignored in tradi
 
 Fig. 2 Operation waveforms of the IBDC with dead-time effect in buck state. (a) Mode 1. (b) Mode 2. (c) Mode 3. (d) Mode 4. (e) Mode 5. (f) Mode 6.
 
+The amount of power transferred from the leading bridge to the lagging bridge is given as follow :
+
+![image](https://github.com/SQY2021/Estimation/assets/81226844/1c9e8ff7-0833-4975-8067-a4bb52f0670b)
+
+![image](https://github.com/SQY2021/Estimation/assets/81226844/f8958f3c-3b88-4905-91b6-36a53a9cd644)
+
+
 [^back to top](#top)
 
 - **(2) Effects of Magnetizing Inductance and Core Losses**
