@@ -5,7 +5,7 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/8msiklxfbhlnsmxp/branch/master?svg=true)](https://ci.appveyor.com/project/TadasBaltrusaitis/openface/branch/master)
 ![License CC BY-NC-SA](https://img.shields.io/badge/license-CC_BY--NC--SA--green.svg?style=plastic)
 
-This is a GitHub repository for the project "[Parameter Estimation of DAB Converter Using Intelligent Algorithms and Steady-State Modeling Considering Nonidealities](https://)".
+This is a GitHub repository for the project "[Parameter Estimation of DAB Converter Using Intelligent Algorithms and Steady-State Modeling Considering Nonidealities]([https://doi.org/10.1109/TIE.2024.3390731])". [DOI: 10.1109/TIE.2024.3390731](https://doi.org/10.1109/TIE.2024.3390731).Published in: **[IEEE Transactions on Industrial Electronics (IEEE TIE)]([https://](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=19))**. 
 
 Parameter estimation with various nonidealities and uncertainties in a practical circuit is a key but challenging issue in the applications of dual active bridge (DAB) converters for health diagnosis and preventive maintenance. However, most of the existing parameter extraction and identification methods for DAB converters still require a large number of experimental data and expensive measurement costs, while the established estimation model usually lacks generalization. In addition, most of the DAB converter models in previous studies adopt ideal models and ignore circuit nonidealities, which will seriously affect the accuracy and reliability of the models.
 
