@@ -27,7 +27,12 @@ Ignoring nonideal factors will lead to the misjudgment of the ZVS range, increas
 ### Topology of a general DAB converter
 For the DAB used as a DC transformer, the input and output voltages are nearly constant, so single-phase-shift (SPS) control is the most widely used one on account of its simplicity and fast dynamic response. Therefore, SPS control is used in this article. The topology of the DAB converter is illustrated in Fig. 1.
 
-![image](https://github.com/SQY2021/Estimation/assets/81226844/063467cc-05fa-4efc-b614-55eb5c56ffc7)
+![1](https://github.com/SQY2021/Estimation/assets/81226844/4dc5b04b-74ae-4c3b-8423-479c6162339c)
+
+                                              (a)
+![2](https://github.com/SQY2021/Estimation/assets/81226844/cf176904-6131-47f5-88a9-a9b385375b24)
+
+                        (b)                                       (c)
 
 Fig. 1 Topology of the DAB converter and SPS control system.
 
