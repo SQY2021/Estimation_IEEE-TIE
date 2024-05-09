@@ -152,7 +152,11 @@ Fig. 8 Overall diagram of the proposed parameter estimation method.
 
 <img src="https://github.com/SQY2021/Estimation/assets/81226844/4fdbe8c4-7d01-426e-ac43-9ff800670e69" width="600" height="480">
 
-Fig. 9 Training process of GA-BPNN
+Fig. 9 Training process of GA-BPNN.
+
+![4](https://github.com/SQY2021/Estimation_IEEE-TIE/assets/81226844/284276e8-89f0-498d-8f51-bfd53c3dadc5)
+
+Fig. 10 The correlation matrix of inputs and outputs in the dataset.
 
 [^back to top](#top)
 
@@ -174,6 +178,18 @@ We appreciate the following github repositories/[IEEE DataPort(TM)](https://) a 
 - [https://ieeexplore.ieee.org/abstract/document/7456330](https://ieeexplore.ieee.org/abstract/document/7456330)
 
 - [GA-BPNN](https://mp.weixin.qq.com/s/RLSxJaPI-AzbTCgryhd6mQ)
+
+# Citation
+```
+@article{Shang2024Estimation,
+  title={Parameter Estimation of DAB Converter Using Intelligent Algorithms and Steady-State Modeling Considering Nonidealities},
+  author={Shang Q, Xiao F, Fan Y, et al.},
+  journal={IEEE Transactions on Industrial Electronics},
+  volume={72},
+  pages={1-13},
+  year={2024},
+  publisher={IEEE}
+}
 
 # Contact
 If you have any questions, feel free to contact Qianyi Shang<img src="https://github.com/SQY2021/Estimation/assets/81226844/128cb8d0-db61-46a0-9488-e6f16fa0816c" width="18" height="18">(https://orcid.org/0000-0002-4568-8895) through Email ([21000504@nue.eud.cn](21000504@nue.eud.cn)) or Github issues. Pull requests are highly welcomed!
